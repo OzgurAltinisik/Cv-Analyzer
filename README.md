@@ -14,6 +14,12 @@ AI destekli CV analiz uygulaması. PDF formatında CV yükle, yapay zeka güçl�
 - pdf2json
 - Tailwind CSS
 
+## Web Arayüzü
+![Ana Sayfa](img/img1.png)
+
+## Analiz Sonucu
+![Sonuçlar](img/img2.png)
+
 ## Kurulum
 
 1. Repoyu klonla:
